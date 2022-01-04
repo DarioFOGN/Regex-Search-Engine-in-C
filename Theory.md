@@ -3,6 +3,7 @@ finite automaton is an abstact machines that has states and transitions between 
 
 # DFA (deterministic finite automata)
 ![fig. 1](https://deniskyashif.com/images/posts/2019-02-20-regex/dfa.png)
+
 in the above example we have what we call DFA, which has 4 states; where q0 is the start state and q3 is the end state.
 all the string that start with ab follwed by an arbitrary numbers of bs ending with an "a" will be recognizes;
 
