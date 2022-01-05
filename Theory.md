@@ -16,6 +16,8 @@ if as input you give the string "ab" the machine will never end into the ending 
 
 # NFA (Non deterministic Finite Automata)
 ![fig. 2](https://deniskyashif.com/images/posts/2019-02-20-regex/nfa.png)
+
 In this machine we can transition in q1 to two states, either q1 again or q2. This machine is called NonDeterministic (NFA).
 it's easy to see that compared to the previous DFA the machines will recognize the same set of strings.
+
 
