@@ -15,4 +15,4 @@ if as input you give the string "ab" the machine will never end into the ending 
 "abca" will not be accepted because "c" will not be recognize by the machine.
 
 # NFA (Non deterministic Finite Automata)
-
+![fig. 1](https://deniskyashif.com/images/posts/2019-02-20-regex/nfa.png)
