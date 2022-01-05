@@ -9,4 +9,10 @@ all the string that start with ab follwed by an arbitrary numbers of bs ending w
 
 for ex. abba will go first to q1 then to to q2 again in q2 and then finally in q3. that's what the matchine, the dfa does.
 
+For the strings "aba", "abbba" or "abbbbba", the automation will end up in a accepting state of q3;
+
+if as input you give the string "ab" the machine will never end into the ending state; 
+"abca" will not be accepted because "c" will not be recognize by the machine.
+
+# NFA (Non deterministic Finite Automata)
 
